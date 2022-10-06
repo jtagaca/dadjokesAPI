@@ -12,6 +12,7 @@ class App extends Component{
                 {/* hey hey */}
                 gg 
                 hey
+                {/* mymy */}
             </div>
         )
     }
