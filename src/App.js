@@ -12,7 +12,7 @@ class App extends Component{
                 {/* hey hey */}
                 {/* ggkk */}
                 gg 
-                hey
+                hey hello my name is
                 {/* mymy */}
             </div>
         )
