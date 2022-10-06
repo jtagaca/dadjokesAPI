@@ -10,6 +10,8 @@ class App extends Component{
             <div className="App">
                 <Jokegen />
                 {/* hey hey */}
+                gg 
+                hey
             </div>
         )
     }
